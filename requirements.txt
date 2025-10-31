@@ -1,5 +1,7 @@
 ccxt
-python-telegram-bot
 pandas
 numpy
-matplotlib
+telegram
+flask
+python-telegram-bot
+# Ajoutez ici tous les autres modules que vous utilisez (par exemple, si vous avez des imports cachés)
